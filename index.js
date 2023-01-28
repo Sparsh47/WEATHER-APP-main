@@ -1,9 +1,9 @@
 document.getElementById('getApi').addEventListener('click', gotoApi);
 
-
 const apikey= '6fd1886d7c734b7da7d124122232701';
 
 function gotoApi() {
+    console.log("clicked");
     var CityName = document.getElementById('cityInput').value;
 console.log(CityName)
 const Apiurl = `https://api.weatherapi.com/v1/current.json?key=${apikey}&q=${CityName}&aqi=no`;
