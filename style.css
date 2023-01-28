@@ -1,47 +1,44 @@
-body{
-    background-color: red;
+body {
+  background-color: peachpuff;
 }
 
-h1{
-    text-align: center;
-    margin-top: 145px;
-    margin-bottom: 25px;
-    color:black;
+h1 {
+  text-align: center;
+  margin-top: 145px;
+  margin-bottom: 25px;
+  color: black;
 }
 
-.input-of-city{
-    height: 35px;
-    width:150px;
-    font-weight:lighter;
-    font-size:medium;
-    padding-left: 10px;
-    justify-content: center;
-    align-items: center;
-    border-radius: 4%;
-    text-align:left;
-    margin-left: 550px;
-
+.input-of-city {
+  height: 35px;
+  width: 150px;
+  font-weight: lighter;
+  font-size: medium;
+  padding-left: 10px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4%;
+  text-align: left;
+  margin-left: 550px;
 }
 
-footer{
-    color:black;
-    font-weight: bold;
-    font-size: 20px;
-    margin-top:15px;
-    text-align:center;
-    height:26px;
-    clear:both;
+footer {
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 15px;
+  text-align: center;
+  height: 26px;
+  clear: both;
 }
 
-.citybutton{
-    height:30px;
-    width:75px;
-    font-weight:bold;
-    border-radius: 4%;
-    background-color:aliceblue;
-    
- 
+.citybutton {
+  height: 30px;
+  width: 75px;
+  font-weight: bold;
+  border-radius: 4%;
+  background-color: aliceblue;
 }
-#output{
-    margin-left: 550px;
+#output {
+  margin-left: 550px;
 }
